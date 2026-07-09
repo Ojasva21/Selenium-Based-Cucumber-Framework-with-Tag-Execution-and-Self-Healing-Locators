@@ -1,0 +1,2148 @@
+
+========================================
+FAILED LOCATOR : By.id: user-name-WRONG
+HEALED LOCATOR : 
+CONFIDENCE SCORE : 32.0
+RECOMMENDATION : Update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+RECOMMENDATION : Update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+RECOMMENDATION : Update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 47.0
+RECOMMENDATION : Update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : username
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 50.55555555555556
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-tha
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-bike-light
+CONFIDENCE SCORE : 44.25675675675676
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-bike-light
+CONFIDENCE SCORE : 44.25675675675676
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-bike-light
+CONFIDENCE SCORE : 51.75675675675676
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : WRONG
+HEALED LOCATOR : 
+CONFIDENCE SCORE : 58.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 47.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : react-burger-cross-btn
+CONFIDENCE SCORE : 63.432432432432435
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-bike-light
+CONFIDENCE SCORE : 79.93835941204362
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-bike-light
+CONFIDENCE SCORE : 79.93835941204362
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.className: shopping_cart_badge
+HEALED LOCATOR : 
+CONFIDENCE SCORE : 63.0
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 73.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-bike-light
+CONFIDENCE SCORE : 79.93835941204362
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.className: shopping_cart_badge
+HEALED LOCATOR : shopping_cart_container
+CONFIDENCE SCORE : 51.36363636363637
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.className: shopping_cart_badge
+HEALED LOCATOR : shopping_cart_container
+CONFIDENCE SCORE : 51.36363636363637
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : login-button-WRONG
+HEALED LOCATOR : login-button
+CONFIDENCE SCORE : 71.66666666666667
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : add-to-cart-sauce-labs-backpack-WRONG
+HEALED LOCATOR : add-to-cart-sauce-labs-backpack
+CONFIDENCE SCORE : 80.71428571428571
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : user-name-WRONG
+HEALED LOCATOR : user-name
+CONFIDENCE SCORE : 75.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : /diabetes/home_WRONG.html
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : See product offerings
+HEALED LOCATOR : https://www.novocare.com/diabetes/home.html
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Top Navigation Section - Home
+HEALED LOCATOR : Top Navigation Section - Home
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : See product offerings
+HEALED LOCATOR : See product offerings
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Top Navigation Section - Home
+HEALED LOCATOR : Top Navigation Section - Home
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : See product offerings
+HEALED LOCATOR : See product offerings
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Top Navigation Section - Home
+HEALED LOCATOR : Top Navigation Section - Home
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : See product offerings
+HEALED LOCATOR : See product offerings
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Top Navigation Section - Home
+HEALED LOCATOR : Top Navigation Section - Home
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : Accept All Cookies
+HEALED LOCATOR : Accept All Cookies
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : See product offerings
+HEALED LOCATOR : See product offerings
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.xpath: //a[@href='/diabetes/home_WRONG.html']
+HEALED LOCATOR : By.xpath: //a[@href='https://www.novocare.com/diabetes/home.html']
+CONFIDENCE SCORE : 100.0
+STATUS : HIGH CONFIDENCE HEAL
+RECOMMENDATION : Safe to update locator in Page Object
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.id: onetrust-accept-btn-handler-WRONG
+HEALED LOCATOR : By.id: onetrust-accept-btn-handler
+CONFIDENCE SCORE : 57.8
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================
+
+========================================
+FAILED LOCATOR : By.cssSelector: a.see-product-offerings-WRONG
+HEALED LOCATOR : By.cssSelector: a.btn.btn-cvi-compliance.custom-btn-style-f33d8b5a609f2b8051497109b85e6153f7eacd52a7a703853bebfa8176dfcf79
+CONFIDENCE SCORE : 48.39622641509434
+STATUS : LOW CONFIDENCE HEAL
+RECOMMENDATION : Manual review recommended
+========================================

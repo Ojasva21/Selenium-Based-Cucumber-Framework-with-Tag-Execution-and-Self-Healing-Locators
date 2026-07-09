@@ -1,0 +1,7 @@
+
+========================================
+HEALING TYPE : NON_AI
+FAILED LOCATOR : By.id: user-name-WRONG
+HEALED LOCATOR : By.name: user-name
+STATUS : SUCCESS
+========================================
